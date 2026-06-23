@@ -1,0 +1,45 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.log
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# ---- PyCharm / IntelliJ ----
+.idea/
+*.iml
+
+# ---- VSCode (se usar) ----
+.vscode/
+
+# ---- Test / Coverage ----
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.cache
+.pytest_cache/
+.junit/
+
+# ---- Build / Distribution ----
+build/
+dist/
+*.egg-info/
+.eggs/
+MANIFEST
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
