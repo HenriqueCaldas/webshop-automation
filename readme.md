@@ -5,7 +5,7 @@ Automação de testes para o site de e-commerce **[Demo Webshop](https://demoweb
 ---
 
 ## 🚀 Tecnologias utilizadas
-- [Python](https://www.python.org/) 3.x  
+- [Python](https://www.python.org/) 
 - [Selenium](https://www.selenium.dev/)  
 - [Pytest](https://docs.pytest.org/)  
 - [PyCharm](https://www.jetbrains.com/pycharm/)  
