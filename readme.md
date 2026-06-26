@@ -5,7 +5,7 @@ Automação de testes para o site de e-commerce **[Demo Webshop](https://demoweb
 ---
 
 ## 🚀 Tecnologias utilizadas
-- [Python](https://www.python.org/) 3.x  
+- [Python](https://www.python.org/) 
 - [Selenium](https://www.selenium.dev/)  
 - [Pytest](https://docs.pytest.org/)  
 - [PyCharm](https://www.jetbrains.com/pycharm/)  
@@ -13,28 +13,8 @@ Automação de testes para o site de e-commerce **[Demo Webshop](https://demoweb
 ---
 
 ## 📂 Estrutura do projeto
-webshop-automation/
-│
-├── DocumentTest/                  # Documentação de testes
-│   └── Avaliação - Documentação de Testes - Luis Henrique.xlsx
-│
-├── pages/                         # Page Objects
-│   ├── CartPage.py
-│   ├── CompareProductsPage.py
-│   ├── HomePage.py
-│   ├── LoginPage.py
-│   └── PDPPage.py
-│
-├── tests/                         # Casos de teste automatizados
-│   ├── test_1.py
-│   ├── test_validar_func_clearList.py
-│   └── test_validar_preçoPDP_Carrinho.py
-│
-├── .gitignore
-├── conftest.py
-├── main.py
-└── README.md
 
+<img width="499" height="445" alt="{6DA52BEC-8157-4B9B-A236-7248D33150D4}" src="https://github.com/user-attachments/assets/7e715eff-e30a-497a-a240-ae345362874f" />
 
 ---
 
