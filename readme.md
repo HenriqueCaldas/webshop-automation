@@ -14,7 +14,8 @@ Automação de testes para o site de e-commerce **[Demo Webshop](https://demoweb
 
 ## 📂 Estrutura do projeto
 
-<img width="499" height="445" alt="{6DA52BEC-8157-4B9B-A236-7248D33150D4}" src="https://github.com/user-attachments/assets/7e715eff-e30a-497a-a240-ae345362874f" />
+<img width="632" height="476" alt="{1B0A5443-D0A7-4C28-BD41-7B23C92E7654}" src="https://github.com/user-attachments/assets/6f1485bd-0f36-4d83-a81c-a7fa734bf8d5" />
+
 
 ---
 
