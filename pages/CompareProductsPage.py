@@ -11,10 +11,10 @@ class CompareProductsPage:
         self.driver = driver
 
 
-    def clickClearList(self):
+    def click_clear_list(self):
         self.driver.find_element(*self.btnClearList).click()
 
-    def capturarMensagemNoItems(self):
+    def capturar_mensagem_no_items(self):
         return self.driver.find_element(*self.msg_no_items).text
 
     def is_clear_list_visible(self):

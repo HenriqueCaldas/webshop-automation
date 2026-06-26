@@ -12,14 +12,14 @@ class PDPPage:
     def __init__(self, driver):
         self.driver = driver
 
-    def clickAddToCompareList(self):
+    def click_add_to_compare_list(self):
         self.driver.find_element(*self.btnAddToCompareList).click()
 
-    def clickAddToCart(self):
+    def click_add_to_cart(self):
         self.driver.find_element(*self.btnAddToCart).click()
 
-    def capturarValorDoProduto(self):
+    def capturar_valor_do_produto(self):
         return self.driver.find_element(*self.valorProduto).text
 
-    def clickIrParaCart(self):
+    def click_ir_para_cart(self):
         self.driver.find_element(*self.btnIrPraCart).click()
